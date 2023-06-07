@@ -1,1 +1,1 @@
-# NotePad-CloneApp
+NotePad App using Swing.
